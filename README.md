@@ -10,7 +10,8 @@ A modular analytics pipeline that simulates, processes, and analyzes player work
 - Fatigue anomaly detection
 - End-to-end pipeline orchestration
 
-## 🧱 Project Architecture
+## 🧱 Project Structure
+'''text
 sdi-analytics-engine/
 │
 ├── analytics/
