@@ -12,24 +12,24 @@ A modular analytics pipeline that simulates, processes, and analyzes player work
 
 ## 🧱 Project Structure
 sdi-analytics-engine  
-  analytics  
-    ingest.py              # Load data from SQLite  
-    fatigue.py             # Compute fatigue KPIs  
-    alerts.py              # Generate fatigue-based alerts  
-    kpis.py                # Team & system-level KPIs  
-    anomaly_detection.py   # Detect fatigue anomalies  
-    prediction.py          # Predict injury risk  
-  data  
-    generate_data.py       # Synthetic data generator  
-  db  
-    schema.sql             # Database schema  
-    soccer_analytics.db    # SQLite database  
-  utils  
-    db_connection.py       # Shared database connection  
-    logger.py              # Centralized logging  
-  main.py                  # Pipeline orchestrator  
-  requirements.txt  
-  README.md  
+&nbsp;analytics  
+&nbsp;&nbsp;ingest.py              # Load data from SQLite  
+&nbsp;&nbsp;fatigue.py             # Compute fatigue KPIs  
+&nbsp;&nbsp;alerts.py              # Generate fatigue-based alerts  
+&nbsp;&nbsp;kpis.py                # Team & system-level KPIs  
+&nbsp;&nbsp;anomaly_detection.py   # Detect fatigue anomalies  
+&nbsp;&nbsp;prediction.py          # Predict injury risk  
+&nbsp;data  
+&nbsp;&nbsp;generate_data.py       # Synthetic data generator  
+&nbsp;db  
+&nbsp;&nbsp;schema.sql             # Database schema  
+&nbsp;&nbsp;soccer_analytics.db    # SQLite database  
+&nbsp;utils  
+&nbsp;&nbsp;db_connection.py       # Shared database connection  
+&nbsp;&nbsp;logger.py              # Centralized logging  
+&nbsp;main.py                  # Pipeline orchestrator  
+&nbsp;requirements.txt  
+&nbsp;README.md  
 
 
 ## 🔄 Pipeline Flow
