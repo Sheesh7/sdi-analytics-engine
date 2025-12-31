@@ -1,0 +1,44 @@
+2025-12-30 21:10:34,500 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:10:34,580 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:10:35,108 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:10:35,182 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:10:35,266 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:10:35,383 - MAIN - INFO - Injury prediction complete
+2025-12-30 21:10:35,471 - MAIN - INFO - Alerts generation complete
+2025-12-30 21:10:35,472 - MAIN - INFO - Pipeline finished successfully
+2025-12-30 21:11:34,061 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:11:34,098 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:11:34,481 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:11:34,552 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:11:34,663 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:11:34,799 - MAIN - INFO - Injury prediction complete
+2025-12-30 21:11:34,947 - MAIN - INFO - Alerts generation complete
+2025-12-30 21:11:34,947 - MAIN - INFO - Pipeline finished successfully
+2025-12-30 21:16:32,583 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:16:32,622 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:16:32,988 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:16:33,091 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:16:33,263 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:17:35,486 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:17:35,524 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:17:35,951 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:17:36,031 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:17:36,233 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:24:28,171 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:24:28,219 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:24:28,758 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:24:28,845 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:24:29,016 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:24:55,057 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:24:55,088 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:24:55,550 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:24:55,629 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:24:55,821 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:28:27,317 - MAIN - INFO - Starting SDI Analytics Engine pipeline
+2025-12-30 21:28:27,349 - MAIN - INFO - Ingestion comlete
+2025-12-30 21:28:27,707 - MAIN - INFO - Fatigue KPIs complete
+2025-12-30 21:28:27,754 - MAIN - INFO - Team KPIs complete
+2025-12-30 21:28:27,812 - MAIN - INFO - Anomaly detection complete
+2025-12-30 21:28:27,908 - MAIN - INFO - Injury prediction complete
+2025-12-30 21:28:27,950 - MAIN - INFO - Alerts generation complete
+2025-12-30 21:28:27,952 - MAIN - INFO - Pipeline finished successfully
