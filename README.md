@@ -12,24 +12,24 @@ A modular analytics pipeline that simulates, processes, and analyzes player work
 
 ## 🧱 Project Structure
 sdi-analytics-engine  
-&nbsp;analytics  
-&nbsp;&nbsp;ingest.py              # Load data from SQLite  
-&nbsp;&nbsp;fatigue.py             # Compute fatigue KPIs  
-&nbsp;&nbsp;alerts.py              # Generate fatigue-based alerts  
-&nbsp;&nbsp;kpis.py                # Team & system-level KPIs  
-&nbsp;&nbsp;anomaly_detection.py   # Detect fatigue anomalies  
-&nbsp;&nbsp;prediction.py          # Predict injury risk  
-&nbsp;data  
-&nbsp;&nbsp;generate_data.py       # Synthetic data generator  
-&nbsp;db  
-&nbsp;&nbsp;schema.sql             # Database schema  
-&nbsp;&nbsp;soccer_analytics.db    # SQLite database  
-&nbsp;utils  
-&nbsp;&nbsp;db_connection.py       # Shared database connection  
-&nbsp;&nbsp;logger.py              # Centralized logging  
-&nbsp;main.py                  # Pipeline orchestrator  
-&nbsp;requirements.txt  
-&nbsp;README.md  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;analytics  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ingest.py              # Load data from SQLite  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fatigue.py             # Compute fatigue KPIs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alerts.py              # Generate fatigue-based alerts  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kpis.py                # Team & system-level KPIs  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anomaly_detection.py   # Detect fatigue anomalies  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;prediction.py          # Predict injury risk  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;generate_data.py       # Synthetic data generator  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;schema.sql             # Database schema  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soccer_analytics.db    # SQLite database  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;utils  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db_connection.py       # Shared database connection  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;logger.py              # Centralized logging  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;main.py                  # Pipeline orchestrator  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;requirements.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md  
 
 
 ## 🔄 Pipeline Flow
